@@ -1,7 +1,8 @@
 # Olá, eu sou o Tiago Moura 👋
 
 ## 🚀 Aspirante a Desenvolvedor Frontend
-Atualmente focado em aprender e aplicar as melhores práticas de desenvolvimento de software enquanto curso [NOME DO SEU CURSO AQUI].
+Em busca da primeira oportunidade
+Sou estudante da EEEP Comendador Miguel Gurgel e estou cursando Desenvolvimento de Sistemas, movido pela curiosidade de entender como a tecnologia transforma a vida das pessoas. Meu foco atual é dominar o ecossistema Frontend, construindo interfaces que unem estética, funcionalidade e performance.
 
 ---
 
