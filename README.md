@@ -25,7 +25,7 @@ Sou estudante da EEEP Comendador Miguel Gurgel e estou cursando Desenvolvimento 
 ---
 
 ## 📫 Vamos nos conectar?
-Eu adoro conversar sobre tecnologia, novos projetos e oportunidades de estágio!
+Eu adoro conversar sobre tecnologia, novos projetos e oportunidades!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-moura-10310837a)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mouratiago942@gmail.com)
